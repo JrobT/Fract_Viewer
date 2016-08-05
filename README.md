@@ -1,2 +1,3 @@
 # Fract_Viewer
-Year One Project
+
+First year Computer Science project to create a Mandelbrot set viewer.
